@@ -654,7 +654,7 @@ const Services = () => {
                     {service.title}
                   </h4>
                   <p style={{ color: '#666', lineHeight: 1.6 }}>
-                    Professional {service.title.toLowerCase()} services tailored to your needs.
+                    {service.description.toLowerCase()} 
                   </p>
                 </div>
               </div>
