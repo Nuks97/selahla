@@ -573,7 +573,7 @@ const Services = () => {
         image: online, 
       },
       { 
-        title: "Business Registration", 
+        title: "Business Registration (CK)", 
         description: "Register your business, CK documents, and company profiles.", 
         image:  Business, 
       },
