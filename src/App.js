@@ -559,7 +559,7 @@ const Services = () => {
     },
     {
       title: 'Typing, Laminating & Email',
-      description: 'Fast typing, professional laminating, and email services.',
+      description: 'Fast typing, laminating, and email services.',
       image: ScanningIcon,
     },
     { 
